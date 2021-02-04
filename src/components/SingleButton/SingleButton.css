@@ -1,0 +1,25 @@
+.button-item {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 50%;
+    border: none;
+    background-color: #333333;
+    font-size: 25px;
+    color: #fff;
+}
+
+.grey {
+    background-color: #a5a5a5;
+}
+
+.orange {
+    background-color: #ff9a0a;
+}
+
+.wide {
+    width: 220px;
+    border-radius: 50px;
+    text-align: left;
+    padding: 37px;
+}

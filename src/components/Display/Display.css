@@ -1,0 +1,8 @@
+.display-wrapper {
+    width: 480px;
+    height: 100px;
+    background-color: #000000;
+    color: #fff;
+    font-size: 75px;
+    text-align: right;
+}

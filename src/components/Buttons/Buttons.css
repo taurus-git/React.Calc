@@ -1,0 +1,7 @@
+.buttons-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    width: 480px;
+    align-content: space-around;
+    background-color: #000000;
+}
